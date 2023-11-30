@@ -142,3 +142,19 @@ footer a.btn-footer{
     color: #7e7e7e;
     margin: auto;
 }
+
+@media screen and (max-width: 700px) {
+
+    header {
+        margin-top: 30%;
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+
+    header {
+        margin-top: 50%;
+    }
+
+}
